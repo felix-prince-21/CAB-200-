@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "679773229746",
+    "firebase_url": "https://cab200final-default-rtdb.firebaseio.com",
+    "project_id": "cab200final",
+    "storage_bucket": "cab200final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679773229746:android:7961fa6d2e66397d622fab",
+        "android_client_info": {
+          "package_name": "com.example.cab200final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdI4D3ofepkiTGtxH2_Cvtd9U7nADmK60"
+        },
+        {
+          "current_key": "AIzaSyBSXJu3Brp6twvTKbht7FWu5C39KHCDxoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679773229746:android:58d6009e1e8076bc622fab",
+        "android_client_info": {
+          "package_name": "com.example.cab200finaldriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdI4D3ofepkiTGtxH2_Cvtd9U7nADmK60"
+        },
+        {
+          "current_key": "AIzaSyBSXJu3Brp6twvTKbht7FWu5C39KHCDxoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
